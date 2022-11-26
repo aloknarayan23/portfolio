@@ -1,6 +1,11 @@
-title: Minimal theme
+title: <p align="center"> Alok Narayan </p>
 logo: /assets/img/Profile_photo.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: 
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/alok-narayan-6054a315/">LinkedIn</a> |
+  <a href="https://github.com/aloknarayan23">GitHub</a>
+ 
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
